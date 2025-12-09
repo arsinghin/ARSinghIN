@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Alok Ranjan Singh**  
-**Full‑Stack Data Scientist & Generative AI Engineer**
+**AI Engineer & Full‑Stack Data Scientist**
 
 ---
 
