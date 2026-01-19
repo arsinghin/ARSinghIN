@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://ko-fi.com/alokranjansingh">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
+</p>
+
 # 👋 Hi, I’m **Alok Ranjan Singh**  
 **AI Engineer & Full‑Stack Data Scientist**
 
