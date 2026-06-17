@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://ko-fi.com/alokranjansingh">
+  <a href="https://ko-fi.com/arsinghin">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
 </p>
@@ -37,6 +37,6 @@ Relevant keywords enhance recruiter search visibility.
 ## 🤝 Let’s Collaborate  
 Feel free to explore my projects and repositories.  
 If you're working on AI challenges, open-source tools, or production deployment of intelligent systems—let’s connect on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokranjan-in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsinghin/)
 
 
