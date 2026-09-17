@@ -1,10 +1,4 @@
-<p align="right">
-  <a href="https://ko-fi.com/arsinghin">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
-</p>
-
-# 👋 Hi, I'm Alok Ranjan Singh
+# 👋 Hi, I'm A R Singh
 
 ### AI Engineer | Generative AI | LLMs | Agentic AI
 
@@ -46,6 +40,10 @@ AWS · Amazon S3 · Amazon ECR · Amazon DynamoDB · Amazon EC2 · Docker · Git
 I write about **Artificial Intelligence, Machine Learning, Deep Learning, LLMs, RAG, and AI Engineering**.
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arsinghin)
+
+<a href="https://ko-fi.com/arsinghin">
+  <img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+</a>
 
 ## 🔗 Connect
 
