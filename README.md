@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alok Ranjan Singh
+# 👋 Hi
 
 ### AI Engineer | Generative AI | LLMs | Agentic AI
 
