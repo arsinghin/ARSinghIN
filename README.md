@@ -35,6 +35,16 @@ AWS · Amazon S3 · Amazon ECR · Amazon DynamoDB · Amazon EC2 · Docker · Git
 - Production AI infrastructure
 - Efficient LLM inference and deployment
 
+## 📚 Published Book
+
+### Redis: The Complete Guide from Zero to Production
+
+A practical, in-depth guide to Redis, taking readers from fundamental concepts to production-ready systems.
+
+[![Redis: The Complete Guide from Zero to Production](./assets/redis-book-cover.jpg)](https://arsinghin.gumroad.com/l/redis-zero-to-production)
+
+[**Get the book on Gumroad →**](https://arsinghin.gumroad.com/l/redis-zero-to-production)
+
 ## ✍️ Writing
 
 I write about **Artificial Intelligence, Machine Learning, Deep Learning, LLMs, RAG, and AI Engineering**.
